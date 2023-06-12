@@ -1,0 +1,6 @@
+{
+ "domain": "todocore",
+ "controller": "gin",
+ "gateway": "simple",
+ "crud": "gin"
+}
